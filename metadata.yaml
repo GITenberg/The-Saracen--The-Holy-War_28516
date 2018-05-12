@@ -1,0 +1,31 @@
+_repo: The-Saracen--The-Holy-War_28516
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shea, Robert
+    aliases:
+    - Shea, Robert J.
+    - Shea, Robert Joseph
+    birthdate: 1933
+    deathdate: 1994
+    gutenberg_agent_id: '33088'
+    url: http://www.gutenberg.org/2009/agents/33088
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Shea
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28516'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+title: 'The Saracen: The Holy War'
+url: http://www.gutenberg.org/ebooks/28516
